@@ -1,0 +1,9 @@
+DETR Baseline Results
+Dataset: Pascal VOC (test2007)
+Images evaluated: 100
+
+Total runtime: 118.15 seconds
+Average inference time: 1.1815 seconds per image
+FPS: 0.85
+
+Hardware: Laptop CPU
