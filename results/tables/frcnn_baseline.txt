@@ -1,0 +1,10 @@
+Faster R-CNN Baseline Results
+Dataset: Pascal VOC (test2007)
+Images evaluated: 100
+Image size: default
+
+Total runtime: 221.42 seconds
+Average inference time: 2.214 seconds per image
+FPS: 0.45
+
+Hardware: Laptop CPU
