@@ -10,7 +10,7 @@ from torchvision.transforms import functional as F
 # -----------------------------
 IMAGE_DIR = "datasets/images/test2007"
 OUTPUT_DIR = "results/sample_predictions/frcnn"
-NUM_IMAGES = 100
+NUM_IMAGES = 300
 SCORE_THRESHOLD = 0.5
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)

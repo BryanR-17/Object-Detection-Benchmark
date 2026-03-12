@@ -46,7 +46,7 @@ print("Figures saved to:", FIG_DIR)
 # -----------------------------
 plt.figure(figsize=(8,5))
 plt.bar(df["Model"], df["Total Runtime (s)"])
-plt.title("Total Runtime for 100 Images")
+plt.title("Total Runtime for 300 Images")
 plt.ylabel("Seconds")
 plt.xlabel("Model")
 plt.tight_layout()

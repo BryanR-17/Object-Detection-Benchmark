@@ -12,8 +12,8 @@ image_paths = [
     if f.endswith(".jpg")
 ]
 
-# use only first 100 images for benchmarking
-image_paths = image_paths[:100]
+# use only first 300 images for benchmarking
+image_paths = image_paths[:300]
 
 start = time.time()
 

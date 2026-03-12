@@ -7,7 +7,7 @@ from transformers import DetrImageProcessor, DetrForObjectDetection
 # settings
 IMAGE_DIR = "datasets/images/test2007"
 OUTPUT_DIR = "results/sample_predictions/detr"
-NUM_IMAGES = 100
+NUM_IMAGES = 300
 CONF_THRESHOLD = 0.7
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)

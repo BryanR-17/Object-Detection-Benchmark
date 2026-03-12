@@ -62,7 +62,7 @@ Key characteristics:
 
 ## Experimental Setup
 
-Images evaluated: **100**
+Images evaluated: **300**
 
 Hardware used:
 - Laptop CPU
