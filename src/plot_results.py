@@ -40,3 +40,17 @@ plt.savefig(time_path)
 plt.close()
 
 print("Figures saved to:", FIG_DIR)
+
+# -----------------------------
+# total runtime comparison
+# -----------------------------
+plt.figure(figsize=(8,5))
+plt.bar(df["Model"], df["Total Runtime (s)"])
+plt.title("Total Runtime for 100 Images")
+plt.ylabel("Seconds")
+plt.xlabel("Model")
+plt.tight_layout()
+
+runtime_path = os.path.join(FIG_DIR, "total_runtime_comparison.png")
+plt.savefig(runtime_path)
+plt.close()
