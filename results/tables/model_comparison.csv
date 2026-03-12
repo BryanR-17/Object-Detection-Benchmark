@@ -1,0 +1,4 @@
+Model,Architecture,Images Evaluated,Total Runtime (s),Avg Time per Image (s),FPS,Hardware
+YOLOv8n,Single-stage CNN,100,8.00,0.0800,12.49,Laptop CPU
+Faster R-CNN,Two-stage CNN,100,221.42,2.2142,0.45,Laptop CPU
+DETR,Transformer,100,118.15,1.1815,0.85,Laptop CPU
