@@ -1,0 +1,10 @@
+YOLOv8n Baseline Results
+Dataset: Pascal VOC (test2007)
+Images evaluated: 100
+Image size: 640
+
+Total runtime: 8.00 seconds
+Average inference time: 0.0800 seconds per image
+FPS: 12.49
+
+Hardware: Laptop CPU
