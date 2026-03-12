@@ -18,7 +18,7 @@ Each model was run on the same subset of images to ensure a fair comparison.
 
 This project uses the **Pascal VOC 2007 dataset**.
 
-For benchmarking purposes, **100 images from the VOC2007 test set** were used.
+For benchmarking purposes, **300 images from the VOC2007 test set** were used.
 
 Dataset structure used in the project:
 
