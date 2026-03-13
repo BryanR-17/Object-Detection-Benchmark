@@ -82,9 +82,9 @@ The following metrics were recorded:
 
 | Model | Architecture | Avg Time/Image | FPS |
 |------|--------------|---------------|------|
-| YOLOv8n | Single-stage CNN | 0.080 s | 12.49 |
-| Faster R-CNN | Two-stage CNN | 2.214 s | 0.45 |
-| DETR | Transformer | 1.181 s | 0.85 |
+| YOLOv8n | Single-stage CNN | 0.0879 s | 11.38 |
+| Faster R-CNN | Two-stage CNN | 2.2835 s | 0.43 |
+| DETR | Transformer | 1.2076 s | 0.83 |
 
 ---
 
